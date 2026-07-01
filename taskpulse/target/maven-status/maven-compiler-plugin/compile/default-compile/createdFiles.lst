@@ -1,0 +1,8 @@
+taskpulse\TaskpulseApplication.class
+taskpulse\repository\UserRepository.class
+taskpulse\service\UserService.class
+taskpulse\controller\TaskController.class
+taskpulse\entity\User$UserBuilder.class
+taskpulse\service\impl\UserServiceImpl.class
+taskpulse\entity\User.class
+taskpulse\controller\UserController.class

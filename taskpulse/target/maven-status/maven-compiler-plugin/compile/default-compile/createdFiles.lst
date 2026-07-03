@@ -1,8 +1,16 @@
+taskpulse\dto\LoginResponse.class
+taskpulse\service\impl\TaskServiceImpl.class
+taskpulse\entity\Task.class
 taskpulse\TaskpulseApplication.class
 taskpulse\repository\UserRepository.class
 taskpulse\service\UserService.class
 taskpulse\controller\TaskController.class
+taskpulse\security\JwtService.class
 taskpulse\entity\User$UserBuilder.class
 taskpulse\service\impl\UserServiceImpl.class
+taskpulse\security\CustomUserDetailsService.class
+taskpulse\dto\LoginRequest.class
+taskpulse\service\TaskService.class
 taskpulse\entity\User.class
 taskpulse\controller\UserController.class
+taskpulse\repository\TaskRepository.class
